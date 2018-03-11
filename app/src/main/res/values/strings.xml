@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="title_activity_detalle_contacto">DetalleContactoActivity</string>
+
+
+    <string name="key_id_contacto">KEY_CONTACTO_ID</string>
+    <string name="title_activity_detalle_cto">DetalleContactoActivity</string>
+    <string name="tittacto">DetalleContactoActivity</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="direccion">Direccion:</string>
+
+</resources>
